@@ -1,0 +1,9 @@
+{
+  "name": "ssmtariq-github-io",
+  "private": true,
+  "description": "Personal site: edit content/site.json then run a template build script.",
+  "scripts": {
+    "build": "node scripts/render-site.mjs",
+    "build:skeleton": "node scripts/render-site.mjs"
+  }
+}

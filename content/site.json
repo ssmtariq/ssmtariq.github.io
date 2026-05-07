@@ -1,0 +1,162 @@
+{
+  "meta": {
+    "title": "Syed Salauddin Mohammad Tariq | Home",
+    "description": "Homepage of Syed Salauddin Mohammad Tariq",
+    "author": "Syed Salauddin Mohammad Tariq",
+    "googleSiteVerification": "MQokU0bg8p567LYVTHLxjKeLQbCxHRp6FvPOqFvJJXA",
+    "analyticsUa": "UA-80541256-2"
+  },
+  "profile": {
+    "name": "Syed Salauddin Mohammad Tariq",
+    "photoSrc": "../images/ssmtariq-profile.jpg",
+    "photoTitle": "Profile photo",
+    "lines": [
+      "Software Engineer & Researcher",
+      "University of Michigan Dearborn, Dearborn, Michigan, United States",
+      "<a href=\"mailto:engr.ssmtariq@gmail.com\">engr.ssmtariq@gmail.com</a>"
+    ],
+    "social": [
+      { "type": "scholar", "url": "https://scholar.google.com/citations?user=n6m0neEAAAAJ&hl=en" },
+      { "type": "github", "url": "https://www.github.com/ssmtariq" },
+      { "type": "linkedin", "url": "https://www.linkedin.com/in/ssmtariq" },
+      { "type": "email", "url": "mailto:engr.ssmtariq@gmail.com" }
+    ]
+  },
+  "nav": [
+    { "id": "about", "label": "About" },
+    { "id": "experience", "label": "Experience" },
+    { "id": "education", "label": "Education" },
+    { "id": "publications", "label": "Publications" },
+    { "id": "skills", "label": "Skills" },
+    { "id": "blog", "label": "Blog" },
+    { "id": "vita", "label": "Vita" }
+  ],
+  "about": {
+    "paragraphs": [
+      "I am a graduate student at the University of Michigan-Dearborn and a Research Assistant focusing on distributed systems inefficiencies. I've previously worked as a JAVA enterprise application developer for Rakuten, a Japanese e-commerce giant, and BRAC, the world's largest NGO. In these roles, I handled application development, bug fixing, testing, documentation, deployment, performance testing and almost all cycles of Java microservices. As part of my managerial responsibilities, I analyzed requirements, sprint planning, and conducted daily huddles. My recent research involving Java microservices inefficiencies is published on the journal ACM Transactions on Architecture and Code Optimization."
+    ]
+  },
+  "experience": [
+    {
+      "logo": "../images/logos/umdearborn_logo.png",
+      "logoAlt": "University of Michigan Dearborn logo",
+      "role": "Research Assistant",
+      "dates": "Jan 2022 - Present",
+      "orgHtml": "<a href=\"https://umdearborn.edu/\" target=\"_blank\" rel=\"noopener noreferrer\">Department of Computer and Information Science</a>, University of Michigan Dearborn",
+      "bullets": [
+        "Performing research on distributed systems and cloud computing technologies, focusing on microservice and serverless inefficiencies.",
+        "Created MicroProf a profiler, that detects unnecessary data transfer in Java SpringBoot microservices. Published findings in a top journal ACM Transaction on Architecture and Code Optimization."
+      ]
+    },
+    {
+      "logo": "../images/logos/umdearborn_logo.png",
+      "logoAlt": "University of Michigan Dearborn logo",
+      "role": "Teaching Assistant",
+      "dates": "Jan 2022 - Present",
+      "orgHtml": "<a href=\"https://umdearborn.edu/\" target=\"_blank\" rel=\"noopener noreferrer\">Department of Computer and Information Science</a>, University of Michigan Dearborn",
+      "bullets": [
+        "Grading assignments and tests for freshmen and sophomore class courses.",
+        "Teaching labs and providing additional support to students by holding office hours."
+      ]
+    },
+    {
+      "logo": "../images/logos/bjit-logo.png",
+      "logoAlt": "BJIT Limited logo",
+      "role": "Senior Software Engineer",
+      "dates": "Oct 2016 - Dec 2021",
+      "orgHtml": "<a href=\"https://bjitgroup.com/\" target=\"_blank\" rel=\"noopener noreferrer\">BJIT Limited</a>",
+      "bullets": [
+        "Developed Spring Boot REST APIs, performed code review, and integrated SonarQube for code quality. Deployed APIs with Jenkins CI/CD, integrated Prometheus, and created Grafana visualizations for resource monitoring.",
+        "Implemented distributed tracing using the ELK stack, reducing fault detection time by 34% with Kibana visualizations. Additionally, documented API specifications, manuals, and designed data flow, class, and sequence diagrams to streamline knowledge transfer and enhance team efficiency.",
+        "Tested software including integration, regression, load, and stress tests on APIs, configuring alerts in Grafana for resource monitoring, resulting in a 20% faster testing phase.",
+        "Developed ESB application software using Mule Integration Platform. Utilized Mule Expression Language (MEL), wrote MUnit tests, and reduced development time by 21% with flow-based software design components.",
+        "Followed agile SDLC, led daily huddles, collaborative retrospectives, and presented sprint progress and challenges to offshore clients. Performed system design, requirements analysis, estimated, negotiated, and created tickets"
+      ]
+    },
+    {
+      "logo": "../images/logos/biTS-logo.png",
+      "logoAlt": "BRAC IT Services Limited logo",
+      "role": "Software Engineer",
+      "dates": "May 2015 - Oct 2016",
+      "orgHtml": "<a href=\"https://www.bracits.com/\" target=\"_blank\" rel=\"noopener noreferrer\">BRAC IT Services Limited</a>",
+      "bullets": [
+        "Performed ERP web applications development, fixed bugs using Mantis, designed business reports, wrote SQL queries, and created custom tag libraries with Java TagLib. Designed dynamic, responsive UI, automated CRM module that improved customer response time by 70% and enhanced flexibility.",
+        "Executed ERP deployment across 17 countries, leading to a 25% reduction in logistic costs for BRAC, the worlds largest NGO."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "logo": "../images/logos/umdearborn_logo.png",
+      "logoAlt": "University of Michigan Dearborn logo",
+      "degreeHtml": "<b>M.S., Computer and Information Science</b> [Jan 2022 - Apr 2024]",
+      "schoolHtml": "University of Michigan Dearborn, USA"
+    },
+    {
+      "logo": "../images/logos/pstu-logo.jpg",
+      "logoAlt": "Patuakhali Science and Technology University logo",
+      "degreeHtml": "<b>B.Sc., Computer Science and Engineering</b> [Jan 2011 - May 2015]",
+      "schoolHtml": "Patuakhali Science and Technology University, Bangladesh"
+    }
+  ],
+  "publications": {
+    "scholarUrl": "https://scholar.google.com/citations?user=n6m0neEAAAAJ&hl=en",
+    "journal": [
+      {
+        "titleHtml": "<a href=\"https://dl.acm.org/doi/10.1145/3622787\" target=\"_blank\" rel=\"noopener noreferrer\">MicroProf: Code-level Attribution of Unnecessary Data Transfer in Microservice Applications</a>",
+        "authorsHtml": "<span style=\"color:Maroon\">Syed Salauddin Mohammad Tariq, </span>Lance Menard, Pengfei Su, and Probir Roy",
+        "venueHtml": "ACM Transactions on Architecture and Code Optimization, September 2023"
+      }
+    ],
+    "conference": [
+      {
+        "titleHtml": "<a href=\"https://ieeexplore.ieee.org/abstract/document/7913018/\" target=\"_blank\" rel=\"noopener noreferrer\">Cognitive complexity: A model for distributing equivalent programming problems</a>",
+        "authorsHtml": "Samrat Kumar Dey, <span style=\"color:Maroon\">SSM Tariq,</span> Md Shariful Islam, and GMM Bashir",
+        "venueHtml": "2017 IEEE International Conference on Electrical, Computer and Communication Engineering (ECCE '17')"
+      },
+      {
+        "titleHtml": "<a href=\"https://ieeexplore.ieee.org/abstract/document/7026848/\" target=\"_blank\" rel=\"noopener noreferrer\">Complexity measurement: A new approach to ensure equal distribution of programming problems for evaluation</a>",
+        "authorsHtml": "GMM Bashir, Samrat Kumar Dey, <span style=\"color:Maroon\">SSM Tariq,</span> and Md Shariful Islam",
+        "venueHtml": "2015 IEEE 8th International Conference on Electrical and Computer Engineering (ICECE '15')"
+      }
+    ]
+  },
+  "skills": [
+    {
+      "html": "Summer '23: <a href=\"https://umdearborn.edu/news/french-students-thought-their-summer-trip-um-dearborn-was-tres-bon\" target=\"_blank\" rel=\"noopener noreferrer\">ESIEA - Tools for Software Development</a>, UM Dearborn"
+    }
+  ],
+  "blog": {
+    "headingNoteHtml": "Selected articles from my <a href=\"https://tariqnotes.blogspot.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Technical Blog</a>",
+    "posts": [
+      {
+        "href": "https://tariqnotes.blogspot.com/2022/08/create-dynamic-persistent-volume.html",
+        "img": "../images/create_dynamic_persistent_k8s_volume_provisioner.PNG",
+        "alt": "Create Dynamic Persistent Volume Provisioner for Custom/Private Kubernetes Cluster"
+      },
+      {
+        "href": "https://tariqnotes.blogspot.com/2022/07/kubernetes-cluster-setup-using.html",
+        "img": "../images/kubernetes_cluster_setup_using_virtualbox.PNG",
+        "alt": "Kubernetes Cluster Setup using Virtualbox VM"
+      },
+      {
+        "href": "https://tariqnotes.blogspot.com/2022/05/configure-elk-stack-linux.html",
+        "img": "../images/configure_elk_stack.PNG",
+        "alt": "Configure ELK Stack (Linux)"
+      }
+    ]
+  },
+  "vita": {
+    "pdfHref": "../cv.pdf",
+    "introHtml": "Full CV in <a href=\"../cv.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">PDF</a>."
+  },
+  "timeline": [
+    { "side": "r", "flag": "University of Michigan Dearborn", "time": "2022 --", "descHtml": "<b>Research & Teaching Assistant</b><br/>M.S. Computer and Information Science (2022--2024)" },
+    { "side": "l", "flag": "BJIT Limited", "time": "2016 -- 2021", "descHtml": "<b>Senior Software Engineer</b><br/>Java microservices, Mule ESB, DevOps" },
+    { "side": "r", "flag": "BRAC IT Services Ltd.", "time": "2015 -- 2016", "descHtml": "<b>Software Engineer</b><br/>ERP development &amp; deployment" },
+    { "side": "l", "flag": "PSTU", "time": "2011 -- 2015", "descHtml": "<b>B.Sc. Computer Science and Engineering</b>" }
+  ],
+  "footer": {
+    "html": "Wanna learn something with me? Visit my blog: <a href=\"https://tariqnotes.blogspot.com/\" target=\"_blank\" rel=\"noopener noreferrer\">TariqNotes</a>. <a href=\"../index.html\">Classic site layout</a>."
+  }
+}
